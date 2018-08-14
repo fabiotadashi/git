@@ -1,1 +1,1 @@
-# Repositório par aula GIT
+# Repositório para aula GIT
